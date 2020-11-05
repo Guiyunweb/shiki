@@ -1,7 +1,7 @@
 package log
 
 import (
-	"github.com/Guiyunweb/pkg/conf"
+	"github.com/Guiyunweb/shiki/conf"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"io"

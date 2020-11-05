@@ -1,4 +1,4 @@
-module github.com/Guiyunweb
+module github.com/Guiyunweb/shiki
 
 go 1.15
 

@@ -1,7 +1,7 @@
 package conf
 
 import (
-	"github.com/Guiyunweb/pkg/log"
+	"github.com/Guiyunweb/shiki/log"
 	"os"
 )
 

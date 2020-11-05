@@ -1,7 +1,7 @@
 package token
 
 import (
-	"github.com/Guiyunweb/pkg/conf"
+	"github.com/Guiyunweb/shiki/conf"
 	"time"
 
 	jwt "github.com/dgrijalva/jwt-go"
